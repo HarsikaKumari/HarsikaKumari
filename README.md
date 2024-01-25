@@ -1,3 +1,8 @@
+![Header](./github-header-image.png)
+
+<h1 align="center">I'm a Ambitious Student</h1>
+
+
 - 👋 Hi, I’m Harsika Kumari
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning java script
