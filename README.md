@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Harsika Kumari
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently learning Web3
 - 💞️ I’m looking to collaborate on web dev projects
 - 📫 How to reach me kumariharsika8@gmail.com
 
