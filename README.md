@@ -1,4 +1,4 @@
-<h1 align="center">I'm a Ambitious Student</h1>
+<h1 align="center">Ambitious Software Developer</h1>
 
 <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=790b7611e7tvmy0m6q9cfjtbytvdbtp9qvz2zglmh06kcypw&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" align="right">
 
