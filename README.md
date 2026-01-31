@@ -8,7 +8,6 @@
 - 💞️ I’m looking to collaborate on web dev projects
 - 📫 How to reach me kumariharsika8@gmail.com
 
----
 <!--- 
   ### 📊 Some Fun Stats of my account
 
